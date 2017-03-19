@@ -1,0 +1,63 @@
+Partlist exported from C:/Users/sales/Documents/GitHub/Rip-off-DAC/prod plus l-filters v2.sch at 20.03.2017 1:07
+
+Part    Value                        Device                       Package                  Description                                     PROD_ID    VALUE
+C1      150nF                        CAP0805                      0805                     Capacitor                                                       
+C2      10uF                         10UF/16V_PANA_M-CAP          10UF/16V_PANA_M_CAP                                                                      
+C3      4.7uF                        4.7UF/50V_PANA_M-CAP         10UF/16V_PANA_M_CAP                                                                      
+C4      1uF                          CAP0805                      0805                     Capacitor                                                       
+C5      1uf                          CAP0805                      0805                     Capacitor                                                       
+C6      1uF                          CAP0805                      0805                     Capacitor                                                       
+C7      10uF                         10UF/16V_PANA_M-CAP          10UF/16V_PANA_M_CAP                                                                      
+C8      10uF                         10UF/16V_PANA_M-CAP          10UF/16V_PANA_M_CAP                                                                      
+C9      47uf                         47UF/16V_PANA_M-CAP          10UF/16V_PANA_M_CAP                                                                      
+C10     47uf                         47UF/16V_PANA_M-CAP          10UF/16V_PANA_M_CAP                                                                      
+C11     10uF                         10UF/16V_PANA_M-CAP          10UF/16V_PANA_M_CAP                                                                      
+C12     150nF                        CAP0805                      0805                     Capacitor                                                       
+C13     150nF                        CAP0805                      0805                     Capacitor                                                       
+C14     150nF                        CAP0805                      0805                     Capacitor                                                       
+C15     4.7pF                        4.7PF_CAPMLCC                4.7PF_CAP                                                                                
+C16     4.7pF                        4.7PF_CAPMLCC                4.7PF_CAP                                                                                
+C17     47uF                         47UF/16V_PANA_M-CAP          10UF/16V_PANA_M_CAP                                                                      
+C18     220pF                        C-EU050-045X075              C050-045X075             CAPACITOR, European symbol                                      
+C19     47uF                         47UF/16V_PANA_M-CAP          10UF/16V_PANA_M_CAP                                                                      
+C20     220pF                        C-EU050-045X075              C050-045X075             CAPACITOR, European symbol                                      
+C21     150nF                        CAP0805                      0805                     Capacitor                                                       
+C22     220nF                        22UF-6.3V-20%(0805)          0805                     CAP-08402                                       CAP-08402  22uF 
+C23     220nF                        22UF-6.3V-20%(0805)          0805                     CAP-08402                                       CAP-08402  22uF 
+CN1     USB-MINIBBOTTOM              USB-MINIBBOTTOM              USB-MINIB                Mini-USB "B" connector with 5th pin broken out.                 
+J3                                   AUDIO-JACKPTH                AUDIO-JACK               3.5mm Audio Jack                                                
+JP1                                  PINHD-1X2                    1X02                     PIN HEADER                                                      
+JP2                                  PINHD-1X2                    1X02                     PIN HEADER                                                      
+L1      600-800R                     INDUCTOR0805-IND             0805                     Inductors                                       NDUC-13076      
+L2      600-800R                     INDUCTOR0805-IND             0805                     Inductors                                       NDUC-13076      
+L3      600-800R                     INDUCTOR0805-IND             0805                     Inductors                                       NDUC-13076      
+LED2                                 LED3MM                       LED3MM                   LED                                                             
+OPA2132 OPA2132DIP8                  OPA2132DIP8                  DIP-8                                                                                    
+R1      10K                          RESISTOR.125W                1-8W_RES                                                                                 
+R2      1.5K                         RESISTOR.125W                1-8W_RES                                                                                 
+R3      10K                          RESISTOR.125W                1-8W_RES                                                                                 
+R4      22R                          RESISTOR.125W                1-8W_RES                                                                                 
+R5      22R                          RESISTOR.125W                1-8W_RES                                                                                 
+R6      820                          RESISTOR.125W                1-8W_RES                                                                                 
+R7      10K                          RESISTOR.125W                1-8W_RES                                                                                 
+R8      1M                           RESISTOR.125W                1-8W_RES                                                                                 
+R9      1.5K                         RESISTOR.125W                1-8W_RES                                                                                 
+R10     22                           RESISTOR.125W                1-8W_RES                                                                                 
+R11     22                           RESISTOR.125W                1-8W_RES                                                                                 
+R12     22                           RESISTOR.125W                1-8W_RES                                                                                 
+R13     22                           RESISTOR.125W                1-8W_RES                                                                                 
+R14     100                          RESISTOR.125W                1-8W_RES                                                                                 
+R15     100                          RESISTOR.125W                1-8W_RES                                                                                 
+R16     100                          RESISTOR.125W                1-8W_RES                                                                                 
+R17     100                          RESISTOR.125W                1-8W_RES                                                                                 
+R18     820                          RESISTOR.125W                1-8W_RES                                                                                 
+R19     820                          RESISTOR.125W                1-8W_RES                                                                                 
+R20     820                          RESISTOR.125W                1-8W_RES                                                                                 
+R21     820                          RESISTOR.125W                1-8W_RES                                                                                 
+R22     10                           RESISTOR.125W                1-8W_RES                                                                                 
+R23     10                           RESISTOR.125W                1-8W_RES                                                                                 
+TPS1    TPS60501DGS-10-BOTTOM        TPS60501DGS-10-BOTTOM        DGS-10-BOTTOM_LYR                                                                        
+U1      LM2662SO8-BOTTOM             LM2662SO8-BOTTOM             SOIC-8_BOTTOM-LYR                                                                        
+U2      PCM1794ADB_R-PDSO-G28-BOTTOM PCM1794ADB_R-PDSO-G28-BOTTOM DB_R-PDSO-G28-BOTTOM_LYR                                                                 
+U3      PCM2707QFP-32-BOTTOM         PCM2707QFP-32-BOTTOM         PJT_(QFP-32)-BOTTOM_LYR                                                                  
+X1      12MHZ                        CRYSTAL                      CRYSTAL                                                                                  
